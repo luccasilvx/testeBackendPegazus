@@ -1,2 +1,3 @@
-# testeBackendPegazus
-teste de backend que realizei em python para noções sobre condicionais com JSON, requisição HTTP, requisição API e desafio com POO
+# Teste Backend Processo Seletivo Nível 1
+
+Realizei um teste de backend em python para demonstrar noções sobre manipulações com JSON, requisições get com HTTP e API e desafio de estrutura com POO
